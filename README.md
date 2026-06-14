@@ -1,5 +1,7 @@
 # Star Office UI
 
+[![Listed on TakoAPI](https://img.shields.io/badge/Listed%20on-TakoAPI-7c3aed)](https://takoapi.com/agents/ringhyacinth-star-office-ui)
+
 🌐 Language: **中文** | [English](./README.en.md) | [日本語](./README.ja.md)
 
 ![Star Office UI 封面](docs/screenshots/readme-cover-2.jpg)
